@@ -10,7 +10,7 @@ function Navbar() {
     <a class="navbar-brand brand-logo" href="./index.html">
                 <img
                   class="img-fluid"
-                  src="./images/BrandLogo-dark (2).svg"
+                  src="./images/hello.jpg"
                   alt=""
                   srcset=""
                 />
